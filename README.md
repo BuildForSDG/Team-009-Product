@@ -1,5 +1,6 @@
 barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2cd623d3ac244f358f5accc2330b7c72)](https://app.codacy.com/gh/BuildForSDG/Team-009-Product?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Team-009-Product&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
 
 
